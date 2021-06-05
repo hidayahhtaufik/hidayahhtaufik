@@ -7,7 +7,6 @@
 
 
 
-
 ### 📝 find me on [Linked.in](https://www.linkedin.com/in/hidayahhtaufik/)	
 <!---	
 hidayahhtaufikk/hidayahhtaufikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.	
