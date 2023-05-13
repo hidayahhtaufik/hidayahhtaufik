@@ -1,6 +1,7 @@
 
 ### Hello, Everyone!👋
 ### Fullstack Javascript Developer
+### Backend Engineer
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hidayahhtaufik&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/hidayahhtaufik?tab=repositories)
 
