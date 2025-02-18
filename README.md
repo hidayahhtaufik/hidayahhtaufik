@@ -1,6 +1,3 @@
-### DISCORD HANDLE FOR SENTIENT
-
-
 ### Hello, Everyone!👋
 ### Fullstack Javascript Developer
 ### Backend Engineer
